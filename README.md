@@ -13,6 +13,6 @@ The task is two fold. One is given the Strike (K<sub>0</sub>) and Price (P) for 
 * [scipy](https://www.scipy.org/) - Library containing useful scientific computing methods.
 
 ### Relevant Files
-[European Option Pricing - Jupyter Notebook](European Put Option.ipynb)
+[European Option Pricing - Jupyter Notebook](European%20Put%20Option.ipynb)
 
-[Asian Option Pricing - Jupyter Notebook](Asian Put Option.ipynb)
+[Asian Option Pricing - Jupyter Notebook](Asian%20Put%20Option.ipynb)
