@@ -1,7 +1,7 @@
 # Quantify19
 
 ### Problem Statement:
-The task is two fold. One is given the Strike (K<sub>0</sub>) and Price (P) for N observations we need to find the price of European call option with relative error of less than 10<sup>-2</sup>.
+The task is two fold. One is given the Strike (K<sub>0</sub>) and Price (P) for N observations we need to find the price of European put option with relative error of less than 10<sup>-2</sup>. The second is similar to the first except it is an Asian option wherein the Price (P) are given for two separate set of Observations (N and M) corresponding to two time intervals (T1 and T2). Using a salient property in probability theory - copula we are to estimate the Asian put option.
 <p align="center">
   <img src="Images/prices.jpg">
 </p>
